@@ -7,7 +7,7 @@ Small apps localized with [Babelize](https://www.babelize.co), each with the ful
 | [nextjs-app-router](./nextjs-app-router) | Next.js 16 App Router | next-intl | [`d63ae53`](https://github.com/babelize/examples/commit/d63ae53) | [`348eb7d`](https://github.com/babelize/examples/commit/348eb7d) |
 | [static-html](./static-html) | Plain HTML, no build step | Babelize's small `i18n.js` runtime | [`e90e43b`](https://github.com/babelize/examples/commit/e90e43b) | [`425fd6c`](https://github.com/babelize/examples/commit/425fd6c) |
 
-More examples (Django, Expo, the React SDK) are on the way.
+Coming next: [React + Vite](https://github.com/babelize/examples/issues/1), [Django](https://github.com/babelize/examples/issues/2), [Vue](https://github.com/babelize/examples/issues/3), [Expo](https://github.com/babelize/examples/issues/4) and [the React SDK](https://github.com/babelize/examples/issues/5). Each issue describes how the examples are built, if you'd like to add one.
 
 ## Run Babelize on your own app
 
