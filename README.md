@@ -32,7 +32,7 @@ npx babelize translate --to fr,de,ja
 
 Either way, review the diff before you merge. Later runs only translate new or changed strings.
 
-**Known issue:** re-running `babelize translate` in these examples currently replaces the hand-corrected translations with the ones stored in `.babelize/local/babelize-lock.json`, and wraps the brand name again. We're fixing that in the CLI; until then, check `git diff` after a re-run and discard those changes.
+**Known issue in @babelize/cli 1.3.9:** re-running `babelize translate` here replaces the hand-corrected translations with the ones stored in `.babelize/local/babelize-lock.json`. The next CLI release keeps corrections you make in the locale files. A re-run also wraps the brand name again; until that's fixed, check `git diff` after a re-run and discard that change.
 
 ## Links
 

@@ -11,7 +11,7 @@ Two plain HTML pages ("Tasklane" home and pricing) localized into French, German
 - Added `i18n.js`, a dependency-free runtime (about 240 lines) that loads the right locale file and swaps the text, and included it on each page
 - Wrote `.babelize/local/babelize-lock.json`, so the next run only translates new or changed strings
 
-The hosted translator failed 38 of 111 translations on the first two runs (`missing_from_response`). Each re-run retried only those, and the third finished.
+The hosted translator failed 38 of 111 translations on the first two runs (`missing_from_response`). Each re-run retried only those, and the third finished. The next release retries dropped strings automatically within a run.
 
 ## What we fixed in review
 
