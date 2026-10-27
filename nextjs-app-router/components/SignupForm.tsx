@@ -9,17 +9,22 @@ export function SignupForm() {
   const [sent, setSent] = useState(false);
 
   if (sent) {
-    return <p role="status">{t("signup-form.thanksWeSentALink", { email })}</p>;
+    return (
+      <p role="status" className="sent">
+        {t("signup-form.thanksWeSentALink", { email })}
+      </p>
+    );
   }
 
   return (
     <form
+      className="signup-form"
       onSubmit={(event) => {
         event.preventDefault();
         setSent(true);
       }}
     >
-      <label htmlFor="email">{t("signup-form.workEmail")}</label>
+      <label htmlFor="email" className="visually-hidden">{t("signup-form.workEmail")}</label>
       <input
         id="email"
         type="email"

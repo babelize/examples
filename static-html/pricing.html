@@ -8,38 +8,52 @@
     <link rel="stylesheet" href="styles.css" >
   </head>
   <body>
-    <header>
-      <a href="index.html" class="logo" aria-label="Tasklane home" data-i18n-aria-label="pricinghtml.tasklaneHome">Tasklane</a>
-      <nav aria-label="Main" data-i18n-aria-label="pricinghtml.main">
-        <a href="index.html#features" data-i18n="pricinghtml.features">Features</a>
-        <a href="pricing.html" data-i18n="pricinghtml.pricing">Pricing</a>
-        <a href="/login" data-i18n="pricinghtml.logIn">Log in</a>
-        <span data-babelize-switcher></span>
-      </nav>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="index.html" class="logo" aria-label="Tasklane home" data-i18n-aria-label="pricinghtml.tasklaneHome"><svg class="logo-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" /><path d="M9.5 16.5l4.2 4.2 8.8-9.4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /></svg> Tasklane</a>
+        <nav aria-label="Main" data-i18n-aria-label="pricinghtml.main">
+          <a href="index.html#features" data-i18n="pricinghtml.features">Features</a>
+          <a href="pricing.html" aria-current="page" data-i18n="pricinghtml.pricing">Pricing</a>
+          <a href="/login" data-i18n="pricinghtml.logIn">Log in</a>
+        </nav>
+        <div class="header-actions">
+          <span data-babelize-switcher></span>
+          <a href="index.html#start" class="button button-small" data-i18n="pricinghtml.startFree">Start free</a>
+        </div>
+      </div>
     </header>
 
     <main>
-      <section class="hero">
-        <h1 data-i18n="pricinghtml.simplePricing">Simple pricing</h1>
-        <p data-i18n="pricinghtml.startFreeUpgradeWhenYour">Start free. Upgrade when your team grows.</p>
+      <section class="hero hero-center">
+        <div class="container">
+          <h1 data-i18n="pricinghtml.simplePricing">Simple pricing</h1>
+          <p class="lead" data-i18n="pricinghtml.startFreeUpgradeWhenYour">Start free. Upgrade when your team grows.</p>
+        </div>
       </section>
 
-      <section class="features">
-        <article>
-          <h2 data-i18n="pricinghtml.free">Free</h2>
-          <p data-i18n="pricinghtml.upTo5PeopleUnlimited">Up to 5 people, unlimited tasks and offline sync.</p>
-          <a href="index.html#email" data-i18n="pricinghtml.startFree">Start free</a>
-        </article>
-        <article>
-          <h2 data-i18n="pricinghtml.team">Team</h2>
-          <p data-i18n="pricinghtml.4PerPersonPerMonth">$4 per person per month, with shared projects and reminders.</p>
-          <a href="/signup?plan=team" data-i18n="pricinghtml.tryTeamFor14Days">Try Team for 14 days</a>
-        </article>
+      <section class="plans">
+        <div class="container plan-grid">
+          <article class="plan">
+            <h2 data-i18n="pricinghtml.free">Free</h2>
+            <p class="plan-price">$0</p>
+            <p data-i18n="pricinghtml.upTo5PeopleUnlimited">Up to 5 people, unlimited tasks and offline sync.</p>
+            <a href="index.html#start" class="button button-ghost" data-i18n="pricinghtml.startFree">Start free</a>
+          </article>
+          <article class="plan plan-featured">
+            <h2 data-i18n="pricinghtml.team">Team</h2>
+            <p class="plan-price">$4</p>
+            <p data-i18n="pricinghtml.4PerPersonPerMonth">$4 per person per month, with shared projects and reminders.</p>
+            <a href="/signup?plan=team" class="button" data-i18n="pricinghtml.tryTeamFor14Days">Try Team for 14 days</a>
+          </article>
+        </div>
       </section>
     </main>
 
-    <footer>
-      <p data-i18n="pricinghtml.madeForTeamsWhoWould">Made for teams who would rather get things done.</p>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span class="logo"><svg class="logo-mark" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="9" /><path d="M9.5 16.5l4.2 4.2 8.8-9.4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /></svg> Tasklane</span>
+        <p data-i18n="pricinghtml.madeForTeamsWhoWould">Made for teams who would rather get things done.</p>
+      </div>
     </footer>
     <script src="i18n.js"></script>
 </body>
