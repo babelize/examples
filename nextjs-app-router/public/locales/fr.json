@@ -6,32 +6,34 @@
   "header": {
     "features": "Fonctionnalités",
     "logIn": "Se connecter",
-    "main": "Principaux",
+    "main": "Principal",
     "pricing": "Tarifs",
-    "tasklane": "pour les enfants",
-    "tasklaneHome": "La maison de Tasklane"
+    "tasklaneHome": "Accueil Tasklane"
+  },
+  "metadata": {
+    "title": "Tasklane : la liste de tâches des petites équipes",
+    "description": "Planifiez la semaine, partagez les tâches et voyez ce qui arrive à échéance, dans une seule liste."
   },
   "page": {
-    "addTasksOnTheTrain": "Ajoutez des tâches sur le train, elles se synchronisent quand vous êtes en ligne.",
-    "dueDatesThatMakeSense": "Des dates d'échéance qui ont du sens",
-    "everyoneSeesTheSameTasks": "Tout le monde voit les mêmes tâches, donc rien ne se perd dans le chat.",
+    "addTasksOnTheTrain": "Ajoutez des tâches dans le train. Elles se synchronisent dès que vous êtes de nouveau en ligne.",
+    "dueDatesThatMakeSense": "Des échéances qui ont du sens",
+    "everyoneSeesTheSameTasks": "Tout le monde voit les mêmes tâches : rien ne se perd dans les discussions.",
     "features": "Fonctionnalités",
-    "freeForUpTo5": "Gratuit pour 5 personnes, pas besoin de carte de crédit.",
-    "madeForTeamsWhoWould": "Fait pour les équipes qui préfèrent faire les choses.",
-    "oneListForTheWhole": "Une liste pour toute l' équipe",
-    "planTheWeekShareTasks": "Planifiez la semaine, partagez les tâches et voyez ce qu'il faut faire, dans une simple liste.",
+    "freeForUpTo5": "Gratuit jusqu'à 5 personnes. Sans carte bancaire.",
+    "madeForTeamsWhoWould": "Conçu pour les équipes qui préfèrent avancer.",
+    "oneListForTheWhole": "Une seule liste pour toute l'équipe",
+    "planTheWeekShareTasks": "Planifiez la semaine, partagez les tâches et voyez ce qui arrive à échéance, dans une seule liste.",
     "startFree": "Commencez gratuitement",
-    "tasklaneGroupsWorkIntoToday": "Les groupes Tasklane travaillent aujourd'hui, cette semaine et plus tard.",
-    "theToDoListForSmall": "La liste des tâches pour les petites équipes",
+    "tasklaneGroupsWorkIntoToday": "Tasklane classe le travail en aujourd'hui, cette semaine et plus tard.",
+    "theToDoListForSmall": "La liste de tâches des petites équipes",
     "worksOffline": "Fonctionne hors ligne"
   },
   "signup-form": {
-    "createMyList": "Créez ma liste",
-    "thanksWeSentALink": "Nous avons envoyé un lien vers {email}.",
-    "workEmail": "E-mail de travail"
+    "createMyList": "Créer ma liste",
+    "thanksWeSentALink": "Merci ! Nous avons envoyé un lien à {email}.",
+    "workEmail": "E-mail professionnel"
   },
   "task-summary": {
-    "1TaskIsDueToday": "Une tâche est due aujourd'hui",
-    "duetodayTasksAreDueToday": "{dueToday} tâches doivent être effectuées aujourd'hui"
+    "tasksDueToday": "{count, plural, one {# tâche arrive à échéance aujourd'hui} other {# tâches arrivent à échéance aujourd'hui}}"
   }
 }

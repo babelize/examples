@@ -6,32 +6,34 @@
   "header": {
     "features": "機能",
     "logIn": "ログイン",
-    "main": "メイン・ウェイン",
+    "main": "メイン",
     "pricing": "料金",
-    "tasklane": "タスクラン",
-    "tasklaneHome": "タスクランの家"
+    "tasklaneHome": "Tasklane ホーム"
+  },
+  "metadata": {
+    "title": "Tasklane：小さなチームのための ToDo リスト",
+    "description": "1週間の計画、タスクの共有、期限の確認を、ひとつのシンプルなリストで。"
   },
   "page": {
-    "addTasksOnTheTrain": "電車で作業を加え オンラインに戻ると同期します",
-    "dueDatesThatMakeSense": "決済日期が意味のあること",
-    "everyoneSeesTheSameTasks": "誰もが同じ作業を 見ているので,チャットでは何も失われません.",
+    "addTasksOnTheTrain": "電車の中でもタスクを追加できます。オンラインに戻ると同期されます。",
+    "dueDatesThatMakeSense": "わかりやすい期限管理",
+    "everyoneSeesTheSameTasks": "全員が同じタスクを見られるので、チャットで埋もれることはありません。",
     "features": "機能",
-    "freeForUpTo5": "5人まで無料です クレジットカードは必要ありません",
-    "madeForTeamsWhoWould": "仕上げたいチームのために作られました",
-    "oneListForTheWhole": "チーム全員に1つのリストがある",
-    "planTheWeekShareTasks": "一週間を計画し 課題を共有し 簡単なリストで 必要なものを見つけましょう",
-    "startFree": "無料でスタートする",
-    "tasklaneGroupsWorkIntoToday": "タスクラングループは今日,今週,そして後日,",
-    "theToDoListForSmall": "小規模なチームでのタスクリスト",
-    "worksOffline": "オフラインで動作する"
+    "freeForUpTo5": "5人まで無料。クレジットカードは不要です。",
+    "madeForTeamsWhoWould": "やるべきことを片付けたいチームのために。",
+    "oneListForTheWhole": "チーム全員でひとつのリスト",
+    "planTheWeekShareTasks": "1週間の計画、タスクの共有、期限の確認を、ひとつのシンプルなリストで。",
+    "startFree": "無料で始める",
+    "tasklaneGroupsWorkIntoToday": "Tasklane は作業を「今日」「今週」「それ以降」に分けて整理します。",
+    "theToDoListForSmall": "小さなチームのための ToDo リスト",
+    "worksOffline": "オフラインでも使える"
   },
   "signup-form": {
-    "createMyList": "私のリストを作成する",
-    "thanksWeSentALink": "{email}にリンクを送りました",
-    "workEmail": "職場のメール"
+    "createMyList": "リストを作成",
+    "thanksWeSentALink": "ありがとうございます！{email} にリンクを送信しました。",
+    "workEmail": "仕事用メールアドレス"
   },
   "task-summary": {
-    "1TaskIsDueToday": "今日も1つの課題がある",
-    "duetodayTasksAreDueToday": "{dueToday}の任務が予定されている"
+    "tasksDueToday": "{count, plural, other {今日が期限のタスク：#件}}"
   }
 }

@@ -1,16 +1,24 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
+import { NextIntlClientProvider } from "next-intl";
+import { getTranslations } from "next-intl/server";
 import "./globals.css";
-import { NextIntlClientProvider } from 'next-intl';
 
-export const metadata: Metadata = {
-  title: "Tasklane: the to-do list for small teams",
-  description: "Plan the week, share tasks and see what is due, in one simple list.",
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const t = await getTranslations("metadata");
+  return { title: t("title"), description: t("description") };
+}
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en">
-      <body><NextIntlClientProvider>{children}</NextIntlClientProvider></body>
+      <body>
+        {/* The locale comes from a cookie or Accept-Language, which is request
+            data: with cacheComponents it has to be read inside <Suspense>. */}
+        <Suspense>
+          <NextIntlClientProvider>{children}</NextIntlClientProvider>
+        </Suspense>
+      </body>
     </html>
   );
 }

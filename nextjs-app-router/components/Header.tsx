@@ -5,7 +5,7 @@ export function Header() {
   return (
     <header>
       <a href="/" className="logo" aria-label={t("header.tasklaneHome")}>
-        {t("header.tasklane")}
+        Tasklane
       </a>
       <nav aria-label={t("header.main")}>
         <a href="#features">{t("header.features")}</a>
