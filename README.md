@@ -30,7 +30,9 @@ export ANTHROPIC_API_KEY=...   # or OPENAI_API_KEY, GEMINI_API_KEY, GROQ_API_KEY
 npx babelize translate --to fr,de,ja
 ```
 
-Either way, review the diff before you merge. Edits you make to the locale files are kept on later runs, and only new or changed strings are translated again.
+Either way, review the diff before you merge. Later runs only translate new or changed strings.
+
+**Known issue:** re-running `babelize translate` in these examples currently replaces the hand-corrected translations with the ones stored in `.babelize/local/babelize-lock.json`, and wraps the brand name again. We're fixing that in the CLI; until then, check `git diff` after a re-run and discard those changes.
 
 ## Links
 
