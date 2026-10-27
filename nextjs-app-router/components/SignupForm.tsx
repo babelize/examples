@@ -1,13 +1,15 @@
 "use client";
+import { useTranslations } from "next-intl";
 
 import { useState } from "react";
 
 export function SignupForm() {
+  const t = useTranslations();
   const [email, setEmail] = useState("");
   const [sent, setSent] = useState(false);
 
   if (sent) {
-    return <p role="status">Thanks! We sent a link to {email}.</p>;
+    return <p role="status">{t("signup-form.thanksWeSentALink", { email })}</p>;
   }
 
   return (
@@ -17,7 +19,7 @@ export function SignupForm() {
         setSent(true);
       }}
     >
-      <label htmlFor="email">Work email</label>
+      <label htmlFor="email">{t("signup-form.workEmail")}</label>
       <input
         id="email"
         type="email"
@@ -26,7 +28,7 @@ export function SignupForm() {
         value={email}
         onChange={(event) => setEmail(event.target.value)}
       />
-      <button type="submit">Create my list</button>
+      <button type="submit">{t("signup-form.createMyList")}</button>
     </form>
   );
 }

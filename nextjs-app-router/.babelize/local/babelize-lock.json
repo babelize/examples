@@ -1,0 +1,236 @@
+{
+  "version": "1.0",
+  "projectId": "local",
+  "updatedAt": "2026-10-27T07:54:49.947Z",
+  "keys": {
+    "page.oneListForTheWhole": {
+      "sourceHash": "e2a9b0bcb23caadbd0b77c3557a41c01a438bf8da89cae24b2cfd60cf05f5311",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Une liste pour toute l' équipe",
+        "de": "Eine Liste für das ganze Team",
+        "ja": "チーム全員に1つのリストがある"
+      },
+      "metadata": {}
+    },
+    "page.dueDatesThatMakeSense": {
+      "sourceHash": "48d656d1d6996025297db6db706072a15bc2ec2393d415d4946ab4da3ab12ea1",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Des dates d'échéance qui ont du sens",
+        "de": "Verfallstermine, die sinnvoll sind",
+        "ja": "決済日期が意味のあること"
+      },
+      "metadata": {}
+    },
+    "page.worksOffline": {
+      "sourceHash": "09918727725cf77e84df99b4d4c5d120a96064f3974d5834c5eea0a1811f48b8",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Fonctionne hors ligne",
+        "de": "Wirkt offline",
+        "ja": "オフラインで動作する"
+      },
+      "metadata": {}
+    },
+    "page.everyoneSeesTheSameTasks": {
+      "sourceHash": "22ab189d6578f2ad564fe6839d9e02167d1f687ed99f2d17a02a56b10c95e04a",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Tout le monde voit les mêmes tâches, donc rien ne se perd dans le chat.",
+        "de": "Jeder sieht die gleichen Aufgaben, also verliert sich nichts im Chat.",
+        "ja": "誰もが同じ作業を 見ているので,チャットでは何も失われません."
+      },
+      "metadata": {}
+    },
+    "page.tasklaneGroupsWorkIntoToday": {
+      "sourceHash": "7b30495e79ebf87563d30766757e54388ed2e098febd1be33f23277712bd378a",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Les groupes Tasklane travaillent aujourd'hui, cette semaine et plus tard.",
+        "de": "Tasklane-Gruppen arbeiten heute, in dieser Woche und später.",
+        "ja": "タスクラングループは今日,今週,そして後日,"
+      },
+      "metadata": {}
+    },
+    "page.addTasksOnTheTrain": {
+      "sourceHash": "9a7cba438055020aa98bb426c6be239fa300547bffa61426d5af81387d4dd716",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Ajoutez des tâches sur le train, elles se synchronisent quand vous êtes en ligne.",
+        "de": "Fügen Sie Aufgaben auf dem Zug hinzu. Sie synchronisieren, wenn Sie wieder online sind.",
+        "ja": "電車で作業を加え オンラインに戻ると同期します"
+      },
+      "metadata": {}
+    },
+    "page.theToDoListForSmall": {
+      "sourceHash": "8b7f3d35897014e776a6a32dd0d4f61c5d24b7b256a6c67748df78296a870f48",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "La liste des tâches pour les petites équipes",
+        "de": "Die Aufgabenliste für kleine Teams",
+        "ja": "小規模なチームでのタスクリスト"
+      },
+      "metadata": {}
+    },
+    "page.planTheWeekShareTasks": {
+      "sourceHash": "1186dbd1e99de7149f9ec0937bfa9981da17f284a234fb87f8898c169a04467b",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Planifiez la semaine, partagez les tâches et voyez ce qu'il faut faire, dans une simple liste.",
+        "de": "Planen Sie die Woche, teilen Sie Aufgaben und sehen Sie, was zu tun ist, in einer einfachen Liste.",
+        "ja": "一週間を計画し 課題を共有し 簡単なリストで 必要なものを見つけましょう"
+      },
+      "metadata": {}
+    },
+    "page.features": {
+      "sourceHash": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Fonctionnalités",
+        "de": "Funktionen",
+        "ja": "機能"
+      },
+      "metadata": {}
+    },
+    "page.startFree": {
+      "sourceHash": "22a1d78d60d5d6c4ed6c7e030a9bc8886239ca690c9327dc923a3496476b801f",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Commencez gratuitement",
+        "de": "Beginnen Sie frei",
+        "ja": "無料でスタートする"
+      },
+      "metadata": {}
+    },
+    "page.freeForUpTo5": {
+      "sourceHash": "12842c178a0dec34ba7860fb917744c9e556abea2610b62ec17f853cc9f5ad66",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Gratuit pour 5 personnes, pas besoin de carte de crédit.",
+        "de": "Kostenlos für bis zu fünf Personen, keine Kreditkarte erforderlich.",
+        "ja": "5人まで無料です クレジットカードは必要ありません"
+      },
+      "metadata": {}
+    },
+    "page.madeForTeamsWhoWould": {
+      "sourceHash": "5aacb9041a7074b5aad0ec2e859f43909e7a4fd2d435e16d16182fd7e83facfc",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Fait pour les équipes qui préfèrent faire les choses.",
+        "de": "Für Teams gemacht, die es vorziehen, Dinge zu erledigen.",
+        "ja": "仕上げたいチームのために作られました"
+      },
+      "metadata": {}
+    },
+    "header.tasklaneHome": {
+      "sourceHash": "2fd5c9f150367a6ce878eed44e801c4f7d1c98a6f92d3842172747b47a87b76a",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "La maison de Tasklane",
+        "de": "Das Haus von Tasklane",
+        "ja": "タスクランの家"
+      },
+      "metadata": {}
+    },
+    "header.tasklane": {
+      "sourceHash": "2389cfa70c87f8b48a11392919a2689949ddd157c9882308402e0a341490b084",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "pour les enfants",
+        "ja": "タスクラン"
+      },
+      "metadata": {}
+    },
+    "header.main": {
+      "sourceHash": "eb814be3ca3b78c0734c560518be2a03e8d8f6e7e26447224cc7c7b105e1193e",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Principaux",
+        "de": "Hauptsache",
+        "ja": "メイン・ウェイン"
+      },
+      "metadata": {}
+    },
+    "header.features": {
+      "sourceHash": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Fonctionnalités",
+        "de": "Funktionen",
+        "ja": "機能"
+      },
+      "metadata": {}
+    },
+    "header.pricing": {
+      "sourceHash": "dfe95783edfef7918760312f94edd764f4ce3ffd38b90c2c955a0cc3b250f040",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Tarifs",
+        "de": "Preise",
+        "ja": "料金"
+      },
+      "metadata": {}
+    },
+    "header.logIn": {
+      "sourceHash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Se connecter",
+        "de": "Anmelden",
+        "ja": "ログイン"
+      },
+      "metadata": {}
+    },
+    "signup-form.thanksWeSentALink": {
+      "sourceHash": "b848f3fd3bd045e818c632e412e32ebdb813ad14730618ccb5da7055e3268ed2",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Nous avons envoyé un lien vers {email}.",
+        "de": "Wir haben einen Link zu {email} gesendet.",
+        "ja": "{email}にリンクを送りました"
+      },
+      "metadata": {}
+    },
+    "signup-form.workEmail": {
+      "sourceHash": "932f815786ae75abf32f85c2e222638a12b9348b9d6e2daef63c848266ceb6c9",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "E-mail de travail",
+        "de": "Arbeits-E-Mail",
+        "ja": "職場のメール"
+      },
+      "metadata": {}
+    },
+    "signup-form.createMyList": {
+      "sourceHash": "3a5f62802f5d30ed227fe851131259737f221ab9875748297e2dfd58e8604ea0",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Créez ma liste",
+        "de": "Erstellen Sie meine Liste",
+        "ja": "私のリストを作成する"
+      },
+      "metadata": {}
+    },
+    "task-summary.1TaskIsDueToday": {
+      "sourceHash": "2a40c82dad88abd0ba8ead3517973e96c76349c32a272b3ed2d270cf4e76cc78",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "Une tâche est due aujourd'hui",
+        "de": "Heute ist eine Aufgabe zu erfüllen",
+        "ja": "今日も1つの課題がある"
+      },
+      "metadata": {}
+    },
+    "task-summary.duetodayTasksAreDueToday": {
+      "sourceHash": "a341afe3c826973e11f91a6355d7e4d445c87bad042d7aa4d362b79d01ce4fa1",
+      "translatedAt": "2026-10-27T07:54:49.945Z",
+      "languages": {
+        "fr": "{dueToday} tâches doivent être effectuées aujourd'hui",
+        "de": "Heute sind {dueToday} Aufgaben fällig",
+        "ja": "{dueToday}の任務が予定されている"
+      },
+      "metadata": {}
+    }
+  }
+}

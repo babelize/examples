@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "fr"
+  },
+  "header": {
+    "features": "Fonctionnalités",
+    "logIn": "Se connecter",
+    "main": "Principaux",
+    "pricing": "Tarifs",
+    "tasklane": "pour les enfants",
+    "tasklaneHome": "La maison de Tasklane"
+  },
+  "page": {
+    "addTasksOnTheTrain": "Ajoutez des tâches sur le train, elles se synchronisent quand vous êtes en ligne.",
+    "dueDatesThatMakeSense": "Des dates d'échéance qui ont du sens",
+    "everyoneSeesTheSameTasks": "Tout le monde voit les mêmes tâches, donc rien ne se perd dans le chat.",
+    "features": "Fonctionnalités",
+    "freeForUpTo5": "Gratuit pour 5 personnes, pas besoin de carte de crédit.",
+    "madeForTeamsWhoWould": "Fait pour les équipes qui préfèrent faire les choses.",
+    "oneListForTheWhole": "Une liste pour toute l' équipe",
+    "planTheWeekShareTasks": "Planifiez la semaine, partagez les tâches et voyez ce qu'il faut faire, dans une simple liste.",
+    "startFree": "Commencez gratuitement",
+    "tasklaneGroupsWorkIntoToday": "Les groupes Tasklane travaillent aujourd'hui, cette semaine et plus tard.",
+    "theToDoListForSmall": "La liste des tâches pour les petites équipes",
+    "worksOffline": "Fonctionne hors ligne"
+  },
+  "signup-form": {
+    "createMyList": "Créez ma liste",
+    "thanksWeSentALink": "Nous avons envoyé un lien vers {email}.",
+    "workEmail": "E-mail de travail"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "Une tâche est due aujourd'hui",
+    "duetodayTasksAreDueToday": "{dueToday} tâches doivent être effectuées aujourd'hui"
+  }
+}

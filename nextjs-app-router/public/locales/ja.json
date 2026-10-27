@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "ja"
+  },
+  "header": {
+    "features": "機能",
+    "logIn": "ログイン",
+    "main": "メイン・ウェイン",
+    "pricing": "料金",
+    "tasklane": "タスクラン",
+    "tasklaneHome": "タスクランの家"
+  },
+  "page": {
+    "addTasksOnTheTrain": "電車で作業を加え オンラインに戻ると同期します",
+    "dueDatesThatMakeSense": "決済日期が意味のあること",
+    "everyoneSeesTheSameTasks": "誰もが同じ作業を 見ているので,チャットでは何も失われません.",
+    "features": "機能",
+    "freeForUpTo5": "5人まで無料です クレジットカードは必要ありません",
+    "madeForTeamsWhoWould": "仕上げたいチームのために作られました",
+    "oneListForTheWhole": "チーム全員に1つのリストがある",
+    "planTheWeekShareTasks": "一週間を計画し 課題を共有し 簡単なリストで 必要なものを見つけましょう",
+    "startFree": "無料でスタートする",
+    "tasklaneGroupsWorkIntoToday": "タスクラングループは今日,今週,そして後日,",
+    "theToDoListForSmall": "小規模なチームでのタスクリスト",
+    "worksOffline": "オフラインで動作する"
+  },
+  "signup-form": {
+    "createMyList": "私のリストを作成する",
+    "thanksWeSentALink": "{email}にリンクを送りました",
+    "workEmail": "職場のメール"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "今日も1つの課題がある",
+    "duetodayTasksAreDueToday": "{dueToday}の任務が予定されている"
+  }
+}

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { NextIntlClientProvider } from 'next-intl';
 
 export const metadata: Metadata = {
   title: "Tasklane: the to-do list for small teams",
@@ -9,7 +10,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body><NextIntlClientProvider>{children}</NextIntlClientProvider></body>
     </html>
   );
 }

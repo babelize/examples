@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "en"
+  },
+  "header": {
+    "features": "Features",
+    "logIn": "Log in",
+    "main": "Main",
+    "pricing": "Pricing",
+    "tasklane": "Tasklane",
+    "tasklaneHome": "Tasklane home"
+  },
+  "page": {
+    "addTasksOnTheTrain": "Add tasks on the train. They sync when you are back online.",
+    "dueDatesThatMakeSense": "Due dates that make sense",
+    "everyoneSeesTheSameTasks": "Everyone sees the same tasks, so nothing gets lost in chat.",
+    "features": "Features",
+    "freeForUpTo5": "Free for up to 5 people. No credit card needed.",
+    "madeForTeamsWhoWould": "Made for teams who would rather get things done.",
+    "oneListForTheWhole": "One list for the whole team",
+    "planTheWeekShareTasks": "Plan the week, share tasks and see what is due, in one simple list.",
+    "startFree": "Start free",
+    "tasklaneGroupsWorkIntoToday": "Tasklane groups work into today, this week and later.",
+    "theToDoListForSmall": "The to-do list for small teams",
+    "worksOffline": "Works offline"
+  },
+  "signup-form": {
+    "createMyList": "Create my list",
+    "thanksWeSentALink": "Thanks! We sent a link to {email}.",
+    "workEmail": "Work email"
+  },
+  "task-summary": {
+    "1TaskIsDueToday": "1 task is due today",
+    "duetodayTasksAreDueToday": "{dueToday} tasks are due today"
+  }
+}
