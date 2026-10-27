@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "fr"
+  },
+  "indexhtml": {
+    "addTasksOnTheTrain": "Ajoutez des tâches sur le train, elles se synchronisent quand vous êtes en ligne.",
+    "createMyList": "Créez ma liste",
+    "dueDatesThatMakeSense": "Des dates d'échéance qui ont du sens",
+    "everyoneSeesTheSameTasks": "Tout le monde voit les mêmes tâches, donc rien ne se perd dans le chat.",
+    "features": "Fonctionnalités",
+    "freeForUpTo5": "Gratuit pour 5 personnes, pas besoin de carte de crédit.",
+    "logIn": "Se connecter",
+    "madeForTeamsWhoWould": "Fait pour les équipes qui préfèrent faire les choses.",
+    "main": "Principaux",
+    "oneListForTheWhole": "Une liste pour toute l' équipe",
+    "planTheWeekShareTasks": "Planifiez la semaine, partagez les tâches et voyez ce qu'il faut faire, dans une simple liste.",
+    "pricing": "Tarifs",
+    "startFree": "Commencez gratuitement",
+    "tasklane": "pour les enfants",
+    "tasklaneGroupsWorkIntoToday": "Les groupes Tasklane travaillent aujourd'hui, cette semaine et plus tard.",
+    "tasklaneHome": "La maison de Tasklane",
+    "tasklaneTheToDoListFor": "Tasklane: la liste des tâches pour les petites équipes",
+    "theToDoListForSmall": "La liste des tâches pour les petites équipes",
+    "workEmail": "E-mail de travail",
+    "worksOffline": "Fonctionne hors ligne"
+  },
+  "pricinghtml": {
+    "4PerPersonPerMonth": "4 $ par personne par mois, avec des projets partagés et des rappels.",
+    "features": "Fonctionnalités",
+    "free": "Gratuit",
+    "logIn": "Se connecter",
+    "madeForTeamsWhoWould": "Fait pour les équipes qui préfèrent faire les choses.",
+    "main": "Principaux",
+    "pricing": "Tarifs",
+    "pricingTasklane": "Les prix sont élevés",
+    "simplePricing": "Le prix est simple",
+    "startFree": "Commencez gratuitement",
+    "startFreeUpgradeWhenYour": "Commencez gratuitement et mettez à jour votre équipe.",
+    "tasklane": "pour les enfants",
+    "tasklaneHome": "La maison de Tasklane",
+    "tasklaneIsFreeForUp": "Le Tasklane est gratuit pour 5 personnes.",
+    "team": "Équipe",
+    "tryTeamFor14Days": "Essayez l' équipe pendant 14 jours",
+    "upTo5PeopleUnlimited": "Jusqu'à 5 personnes, des tâches illimitées et une synchronisation hors ligne."
+  }
+}

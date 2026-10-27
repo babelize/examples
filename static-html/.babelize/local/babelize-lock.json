@@ -1,0 +1,375 @@
+{
+  "version": "1.0",
+  "projectId": "local",
+  "updatedAt": "2026-10-27T08:11:56.515Z",
+  "keys": {
+    "indexhtml.tasklaneTheToDoListFor": {
+      "sourceHash": "d0a38167669e8a35e43cefbd501e9185c4505ea6d5fb1a209d515a361e3a06cf",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Tasklane: la liste des tâches pour les petites équipes",
+        "de": "Tasklane: Die To-Do-Liste für kleine Teams",
+        "ja": "タスクラン:小さなチームのタスクリスト"
+      },
+      "metadata": {}
+    },
+    "indexhtml.tasklaneHome": {
+      "sourceHash": "2fd5c9f150367a6ce878eed44e801c4f7d1c98a6f92d3842172747b47a87b76a",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "La maison de Tasklane",
+        "de": "Das Haus von Tasklane",
+        "ja": "タスクランの家"
+      },
+      "metadata": {}
+    },
+    "indexhtml.tasklane": {
+      "sourceHash": "2389cfa70c87f8b48a11392919a2689949ddd157c9882308402e0a341490b084",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "pour les enfants",
+        "ja": "タスクラン"
+      },
+      "metadata": {}
+    },
+    "indexhtml.main": {
+      "sourceHash": "eb814be3ca3b78c0734c560518be2a03e8d8f6e7e26447224cc7c7b105e1193e",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Principaux",
+        "de": "Hauptsache",
+        "ja": "メイン・ウェイン"
+      },
+      "metadata": {}
+    },
+    "indexhtml.features": {
+      "sourceHash": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Fonctionnalités",
+        "de": "Funktionen",
+        "ja": "機能"
+      },
+      "metadata": {}
+    },
+    "indexhtml.pricing": {
+      "sourceHash": "dfe95783edfef7918760312f94edd764f4ce3ffd38b90c2c955a0cc3b250f040",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Tarifs",
+        "de": "Preise",
+        "ja": "料金"
+      },
+      "metadata": {}
+    },
+    "indexhtml.logIn": {
+      "sourceHash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Se connecter",
+        "de": "Anmelden",
+        "ja": "ログイン"
+      },
+      "metadata": {}
+    },
+    "indexhtml.theToDoListForSmall": {
+      "sourceHash": "8b7f3d35897014e776a6a32dd0d4f61c5d24b7b256a6c67748df78296a870f48",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "La liste des tâches pour les petites équipes",
+        "de": "Die Aufgabenliste für kleine Teams",
+        "ja": "小規模なチームでのタスクリスト"
+      },
+      "metadata": {}
+    },
+    "indexhtml.planTheWeekShareTasks": {
+      "sourceHash": "1186dbd1e99de7149f9ec0937bfa9981da17f284a234fb87f8898c169a04467b",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Planifiez la semaine, partagez les tâches et voyez ce qu'il faut faire, dans une simple liste.",
+        "de": "Planen Sie die Woche, teilen Sie Aufgaben und sehen Sie, was zu tun ist, in einer einfachen Liste.",
+        "ja": "一週間を計画し 課題を共有し 簡単なリストで 必要なものを見つけましょう"
+      },
+      "metadata": {}
+    },
+    "indexhtml.oneListForTheWhole": {
+      "sourceHash": "e2a9b0bcb23caadbd0b77c3557a41c01a438bf8da89cae24b2cfd60cf05f5311",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Une liste pour toute l' équipe",
+        "de": "Eine Liste für das ganze Team",
+        "ja": "チーム全員に1つのリストがある"
+      },
+      "metadata": {}
+    },
+    "indexhtml.everyoneSeesTheSameTasks": {
+      "sourceHash": "22ab189d6578f2ad564fe6839d9e02167d1f687ed99f2d17a02a56b10c95e04a",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Tout le monde voit les mêmes tâches, donc rien ne se perd dans le chat.",
+        "de": "Jeder sieht die gleichen Aufgaben, also verliert sich nichts im Chat.",
+        "ja": "誰もが同じ作業を 見ているので,チャットでは何も失われません."
+      },
+      "metadata": {}
+    },
+    "indexhtml.dueDatesThatMakeSense": {
+      "sourceHash": "48d656d1d6996025297db6db706072a15bc2ec2393d415d4946ab4da3ab12ea1",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Des dates d'échéance qui ont du sens",
+        "de": "Verfallstermine, die sinnvoll sind",
+        "ja": "決済日期が意味のあること"
+      },
+      "metadata": {}
+    },
+    "indexhtml.tasklaneGroupsWorkIntoToday": {
+      "sourceHash": "7b30495e79ebf87563d30766757e54388ed2e098febd1be33f23277712bd378a",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Les groupes Tasklane travaillent aujourd'hui, cette semaine et plus tard.",
+        "de": "Tasklane-Gruppen arbeiten heute, in dieser Woche und später.",
+        "ja": "タスクラングループは今日,今週,そして後日,"
+      },
+      "metadata": {}
+    },
+    "indexhtml.worksOffline": {
+      "sourceHash": "09918727725cf77e84df99b4d4c5d120a96064f3974d5834c5eea0a1811f48b8",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Fonctionne hors ligne",
+        "de": "Wirkt offline",
+        "ja": "オフラインで動作する"
+      },
+      "metadata": {}
+    },
+    "indexhtml.addTasksOnTheTrain": {
+      "sourceHash": "9a7cba438055020aa98bb426c6be239fa300547bffa61426d5af81387d4dd716",
+      "translatedAt": "2026-10-27T08:10:18.915Z",
+      "languages": {
+        "fr": "Ajoutez des tâches sur le train, elles se synchronisent quand vous êtes en ligne.",
+        "de": "Fügen Sie Aufgaben auf dem Zug hinzu. Sie synchronisieren, wenn Sie wieder online sind.",
+        "ja": "電車で作業を加え オンラインに戻ると同期します"
+      },
+      "metadata": {}
+    },
+    "indexhtml.startFree": {
+      "sourceHash": "22a1d78d60d5d6c4ed6c7e030a9bc8886239ca690c9327dc923a3496476b801f",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Commencez gratuitement",
+        "de": "Beginnen Sie frei",
+        "ja": "無料でスタートする"
+      },
+      "metadata": {}
+    },
+    "indexhtml.freeForUpTo5": {
+      "sourceHash": "12842c178a0dec34ba7860fb917744c9e556abea2610b62ec17f853cc9f5ad66",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Gratuit pour 5 personnes, pas besoin de carte de crédit.",
+        "de": "Kostenlos für bis zu fünf Personen, keine Kreditkarte erforderlich.",
+        "ja": "5人まで無料です クレジットカードは必要ありません"
+      },
+      "metadata": {}
+    },
+    "indexhtml.workEmail": {
+      "sourceHash": "932f815786ae75abf32f85c2e222638a12b9348b9d6e2daef63c848266ceb6c9",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "E-mail de travail",
+        "de": "Arbeits-E-Mail",
+        "ja": "職場のメール"
+      },
+      "metadata": {}
+    },
+    "indexhtml.createMyList": {
+      "sourceHash": "3a5f62802f5d30ed227fe851131259737f221ab9875748297e2dfd58e8604ea0",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Créez ma liste",
+        "de": "Erstellen Sie meine Liste",
+        "ja": "私のリストを作成する"
+      },
+      "metadata": {}
+    },
+    "indexhtml.madeForTeamsWhoWould": {
+      "sourceHash": "5aacb9041a7074b5aad0ec2e859f43909e7a4fd2d435e16d16182fd7e83facfc",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Fait pour les équipes qui préfèrent faire les choses.",
+        "de": "Für Teams gemacht, die es vorziehen, Dinge zu erledigen.",
+        "ja": "仕上げたいチームのために作られました"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.pricingTasklane": {
+      "sourceHash": "7e2b5ed6659bd539c014a2c1f35124e4f278757bbc08dcca37491d8c74f65bb7",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Les prix sont élevés",
+        "de": "Der Preis ist Tasklane",
+        "ja": "タスクランの価格"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.tasklaneHome": {
+      "sourceHash": "2fd5c9f150367a6ce878eed44e801c4f7d1c98a6f92d3842172747b47a87b76a",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "La maison de Tasklane",
+        "de": "Das Haus von Tasklane",
+        "ja": "タスクランの家"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.tasklane": {
+      "sourceHash": "2389cfa70c87f8b48a11392919a2689949ddd157c9882308402e0a341490b084",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "pour les enfants",
+        "ja": "タスクラン"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.main": {
+      "sourceHash": "eb814be3ca3b78c0734c560518be2a03e8d8f6e7e26447224cc7c7b105e1193e",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Principaux",
+        "de": "Hauptsache",
+        "ja": "メイン・ウェイン"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.features": {
+      "sourceHash": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Fonctionnalités",
+        "de": "Funktionen",
+        "ja": "機能"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.pricing": {
+      "sourceHash": "dfe95783edfef7918760312f94edd764f4ce3ffd38b90c2c955a0cc3b250f040",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Tarifs",
+        "de": "Preise",
+        "ja": "料金"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.logIn": {
+      "sourceHash": "c189840cf7e2d6f6fdeefde1ac59dfdf50bb75642eb569b4e38a5614d6f12ac2",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Se connecter",
+        "de": "Anmelden",
+        "ja": "ログイン"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.simplePricing": {
+      "sourceHash": "a8be00a9eae218064430ee2fd8d7919404ff866e679d2913529994675b0e5747",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Le prix est simple",
+        "de": "Einfache Preisgestaltung",
+        "ja": "シンプルな価格設定"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.startFreeUpgradeWhenYour": {
+      "sourceHash": "44526488810288682b348d94e8beecf5f213f57d2400956ecadaff8268333626",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Commencez gratuitement et mettez à jour votre équipe.",
+        "de": "Starten Sie frei und verbessern Sie sich, wenn Ihr Team wächst.",
+        "ja": "無料でスタートして チームが成長したらアップグレードする"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.free": {
+      "sourceHash": "f411a1fb62758b4c54690d0a702b4955b54dd22115416fa7b1ce51b4a084818d",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Gratuit",
+        "de": "Kostenlos",
+        "ja": "無料"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.upTo5PeopleUnlimited": {
+      "sourceHash": "2bbf00da41526b135a2a76e8e9ca364b9019fcc5e71e283d9d820d0dcba08107",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Jusqu'à 5 personnes, des tâches illimitées et une synchronisation hors ligne.",
+        "de": "Bis zu 5 Personen, unbegrenzte Aufgaben und Offline-Synchronisierung.",
+        "ja": "5人まで,無制限のタスクとオフラインの同期."
+      },
+      "metadata": {}
+    },
+    "pricinghtml.startFree": {
+      "sourceHash": "22a1d78d60d5d6c4ed6c7e030a9bc8886239ca690c9327dc923a3496476b801f",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Commencez gratuitement",
+        "de": "Beginnen Sie frei",
+        "ja": "無料でスタートする"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.team": {
+      "sourceHash": "5985039f106df054b43c3529139613bf7c2372937539f344c7c5ee47d00a0d63",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Équipe",
+        "de": "Team",
+        "ja": "チーム"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.4PerPersonPerMonth": {
+      "sourceHash": "50f3db47e5816c27c894c07df082184af0c83f28d08efd3978a6f84cf1c59026",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "4 $ par personne par mois, avec des projets partagés et des rappels.",
+        "de": "4 Dollar pro Person pro Monat, mit gemeinsamen Projekten und Erinnerungen.",
+        "ja": "一人当たり4ドルで 共有プロジェクトとリモートで"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.tryTeamFor14Days": {
+      "sourceHash": "813e7e3275999c49234c8e92e13612f299a4ce81fafdc3420ad1459f38f92280",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Essayez l' équipe pendant 14 jours",
+        "de": "Versuchen Sie Team für 14 Tage",
+        "ja": "14日間 チームを試す"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.madeForTeamsWhoWould": {
+      "sourceHash": "5aacb9041a7074b5aad0ec2e859f43909e7a4fd2d435e16d16182fd7e83facfc",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Fait pour les équipes qui préfèrent faire les choses.",
+        "de": "Für Teams gemacht, die es vorziehen, Dinge zu erledigen.",
+        "ja": "仕上げたいチームのために作られました"
+      },
+      "metadata": {}
+    },
+    "pricinghtml.tasklaneIsFreeForUp": {
+      "sourceHash": "f4e5ff1ea094fdfeb7f52c5bca2c29d4e9b8b593828aad52d3a764bb7950fa18",
+      "translatedAt": "2026-10-27T08:11:56.512Z",
+      "languages": {
+        "fr": "Le Tasklane est gratuit pour 5 personnes.",
+        "de": "Tasklane ist für bis zu fünf Personen kostenlos, größere Teams zahlen pro Person.",
+        "ja": "タスクランは5人まで無料で,大きなチームが一人当たりの支払いをします."
+      },
+      "metadata": {}
+    }
+  }
+}

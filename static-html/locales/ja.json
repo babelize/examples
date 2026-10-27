@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "ja"
+  },
+  "indexhtml": {
+    "addTasksOnTheTrain": "電車で作業を加え オンラインに戻ると同期します",
+    "createMyList": "私のリストを作成する",
+    "dueDatesThatMakeSense": "決済日期が意味のあること",
+    "everyoneSeesTheSameTasks": "誰もが同じ作業を 見ているので,チャットでは何も失われません.",
+    "features": "機能",
+    "freeForUpTo5": "5人まで無料です クレジットカードは必要ありません",
+    "logIn": "ログイン",
+    "madeForTeamsWhoWould": "仕上げたいチームのために作られました",
+    "main": "メイン・ウェイン",
+    "oneListForTheWhole": "チーム全員に1つのリストがある",
+    "planTheWeekShareTasks": "一週間を計画し 課題を共有し 簡単なリストで 必要なものを見つけましょう",
+    "pricing": "料金",
+    "startFree": "無料でスタートする",
+    "tasklane": "タスクラン",
+    "tasklaneGroupsWorkIntoToday": "タスクラングループは今日,今週,そして後日,",
+    "tasklaneHome": "タスクランの家",
+    "tasklaneTheToDoListFor": "タスクラン:小さなチームのタスクリスト",
+    "theToDoListForSmall": "小規模なチームでのタスクリスト",
+    "workEmail": "職場のメール",
+    "worksOffline": "オフラインで動作する"
+  },
+  "pricinghtml": {
+    "4PerPersonPerMonth": "一人当たり4ドルで 共有プロジェクトとリモートで",
+    "features": "機能",
+    "free": "無料",
+    "logIn": "ログイン",
+    "madeForTeamsWhoWould": "仕上げたいチームのために作られました",
+    "main": "メイン・ウェイン",
+    "pricing": "料金",
+    "pricingTasklane": "タスクランの価格",
+    "simplePricing": "シンプルな価格設定",
+    "startFree": "無料でスタートする",
+    "startFreeUpgradeWhenYour": "無料でスタートして チームが成長したらアップグレードする",
+    "tasklane": "タスクラン",
+    "tasklaneHome": "タスクランの家",
+    "tasklaneIsFreeForUp": "タスクランは5人まで無料で,大きなチームが一人当たりの支払いをします.",
+    "team": "チーム",
+    "tryTeamFor14Days": "14日間 チームを試す",
+    "upTo5PeopleUnlimited": "5人まで,無制限のタスクとオフラインの同期."
+  }
+}

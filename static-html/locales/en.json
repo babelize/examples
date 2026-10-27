@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "en"
+  },
+  "indexhtml": {
+    "addTasksOnTheTrain": "Add tasks on the train. They sync when you are back online.",
+    "createMyList": "Create my list",
+    "dueDatesThatMakeSense": "Due dates that make sense",
+    "everyoneSeesTheSameTasks": "Everyone sees the same tasks, so nothing gets lost in chat.",
+    "features": "Features",
+    "freeForUpTo5": "Free for up to 5 people. No credit card needed.",
+    "logIn": "Log in",
+    "madeForTeamsWhoWould": "Made for teams who would rather get things done.",
+    "main": "Main",
+    "oneListForTheWhole": "One list for the whole team",
+    "planTheWeekShareTasks": "Plan the week, share tasks and see what is due, in one simple list.",
+    "pricing": "Pricing",
+    "startFree": "Start free",
+    "tasklane": "Tasklane",
+    "tasklaneGroupsWorkIntoToday": "Tasklane groups work into today, this week and later.",
+    "tasklaneHome": "Tasklane home",
+    "tasklaneTheToDoListFor": "Tasklane: the to-do list for small teams",
+    "theToDoListForSmall": "The to-do list for small teams",
+    "workEmail": "Work email",
+    "worksOffline": "Works offline"
+  },
+  "pricinghtml": {
+    "4PerPersonPerMonth": "$4 per person per month, with shared projects and reminders.",
+    "features": "Features",
+    "free": "Free",
+    "logIn": "Log in",
+    "madeForTeamsWhoWould": "Made for teams who would rather get things done.",
+    "main": "Main",
+    "pricing": "Pricing",
+    "pricingTasklane": "Pricing | Tasklane",
+    "simplePricing": "Simple pricing",
+    "startFree": "Start free",
+    "startFreeUpgradeWhenYour": "Start free. Upgrade when your team grows.",
+    "tasklane": "Tasklane",
+    "tasklaneHome": "Tasklane home",
+    "tasklaneIsFreeForUp": "Tasklane is free for up to 5 people. Bigger teams pay per person.",
+    "team": "Team",
+    "tryTeamFor14Days": "Try Team for 14 days",
+    "upTo5PeopleUnlimited": "Up to 5 people, unlimited tasks and offline sync."
+  }
+}

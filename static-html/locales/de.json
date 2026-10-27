@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "dir": "ltr",
+    "language": "de"
+  },
+  "indexhtml": {
+    "addTasksOnTheTrain": "Fügen Sie Aufgaben auf dem Zug hinzu. Sie synchronisieren, wenn Sie wieder online sind.",
+    "createMyList": "Erstellen Sie meine Liste",
+    "dueDatesThatMakeSense": "Verfallstermine, die sinnvoll sind",
+    "everyoneSeesTheSameTasks": "Jeder sieht die gleichen Aufgaben, also verliert sich nichts im Chat.",
+    "features": "Funktionen",
+    "freeForUpTo5": "Kostenlos für bis zu fünf Personen, keine Kreditkarte erforderlich.",
+    "logIn": "Anmelden",
+    "madeForTeamsWhoWould": "Für Teams gemacht, die es vorziehen, Dinge zu erledigen.",
+    "main": "Hauptsache",
+    "oneListForTheWhole": "Eine Liste für das ganze Team",
+    "planTheWeekShareTasks": "Planen Sie die Woche, teilen Sie Aufgaben und sehen Sie, was zu tun ist, in einer einfachen Liste.",
+    "pricing": "Preise",
+    "startFree": "Beginnen Sie frei",
+    "tasklane": "Tasklane",
+    "tasklaneGroupsWorkIntoToday": "Tasklane-Gruppen arbeiten heute, in dieser Woche und später.",
+    "tasklaneHome": "Das Haus von Tasklane",
+    "tasklaneTheToDoListFor": "Tasklane: Die To-Do-Liste für kleine Teams",
+    "theToDoListForSmall": "Die Aufgabenliste für kleine Teams",
+    "workEmail": "Arbeits-E-Mail",
+    "worksOffline": "Wirkt offline"
+  },
+  "pricinghtml": {
+    "4PerPersonPerMonth": "4 Dollar pro Person pro Monat, mit gemeinsamen Projekten und Erinnerungen.",
+    "features": "Funktionen",
+    "free": "Kostenlos",
+    "logIn": "Anmelden",
+    "madeForTeamsWhoWould": "Für Teams gemacht, die es vorziehen, Dinge zu erledigen.",
+    "main": "Hauptsache",
+    "pricing": "Preise",
+    "pricingTasklane": "Der Preis ist Tasklane",
+    "simplePricing": "Einfache Preisgestaltung",
+    "startFree": "Beginnen Sie frei",
+    "startFreeUpgradeWhenYour": "Starten Sie frei und verbessern Sie sich, wenn Ihr Team wächst.",
+    "tasklane": "Tasklane",
+    "tasklaneHome": "Das Haus von Tasklane",
+    "tasklaneIsFreeForUp": "Tasklane ist für bis zu fünf Personen kostenlos, größere Teams zahlen pro Person.",
+    "team": "Team",
+    "tryTeamFor14Days": "Versuchen Sie Team für 14 Tage",
+    "upTo5PeopleUnlimited": "Bis zu 5 Personen, unbegrenzte Aufgaben und Offline-Synchronisierung."
+  }
+}
